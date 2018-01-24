@@ -1,0 +1,11 @@
+{
+  "name": "formatversionnumber",
+  "version": "1.0.1",
+  "description": "Format a give version number to an actual number e.g 1.0.0 will return 100  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mrmadhat",
+  "license": "ISC"
+}
