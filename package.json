@@ -1,6 +1,6 @@
 {
   "name": "formatversionnumber",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Format a give version number to an actual number e.g 1.0.0 will return 100  ",
   "main": "index.js",
   "scripts": {
