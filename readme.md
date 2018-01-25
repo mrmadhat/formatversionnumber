@@ -18,6 +18,8 @@ npm install formatversionnumber
 import formatVersionNumber from 'formatversionnumber'
 
 formatVersionNumber('1.0.12', 4);
+
+// 1012
 ``` 
 
 ##### When might the length argument be useful? 

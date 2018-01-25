@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrmadhat/formatversionnumber.git"
+  },
+  "keywords": [
+    "version number",
+    "format version"
+  ],
   "author": "mrmadhat",
-  "license": "ISC"
+  "license": "MIT"
 }
